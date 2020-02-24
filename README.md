@@ -1,1 +1,1 @@
-# 3D Engine Library, by Imasi #
+# Rogue-like and/or clicker game #
